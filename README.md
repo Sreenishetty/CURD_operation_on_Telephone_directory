@@ -1,4 +1,4 @@
-# CURD_operation_on_Telephone_directory
+# CURD Operation on Telephone directory using MONGODB Database
 
 Telephone directory: Perform CRUD operation using mongodb and python.
 
